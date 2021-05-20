@@ -19,7 +19,7 @@ SOURCES += src/lab2.cpp
 DISTFILES += qml/lab2.qml \
     qml/cover/CoverPage.qml \
     qml/pages/FirstPage.qml \
-    qml/pages/SecondPage.qml \
+    qml/pages/Task8.qml \
     rpm/lab2.changes.in \
     rpm/lab2.changes.run.in \
     rpm/lab2.spec \

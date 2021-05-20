@@ -4,33 +4,46 @@
 <context>
     <name>CoverPage</name>
     <message>
-        <source>My Cover</source>
+        <source>Lab #2</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>FirstPage</name>
     <message>
-        <source>Show Page 2</source>
+        <source>Square</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>UI Template</source>
+        <source>Lab #2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Hello Sailors</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>SecondPage</name>
-    <message>
-        <source>Nested Page</source>
+        <source>Task #2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Item</source>
+        <source>Task #3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Task #4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Task #5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Task #6</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Task #7</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Task #8</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
