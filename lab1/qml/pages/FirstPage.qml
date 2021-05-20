@@ -16,14 +16,6 @@ Page {
                 title: qsTr("Counter")
             }
 
-            Label {
-                id: label
-                x: Theme.horizontalPageMargin
-                property int count: 0
-                text: count
-                font.pixelSize: Theme.fontSizeExtraLarge
-            }
-
             Button {
                 id: button
                 x: Theme.horizontalPageMargin
@@ -32,6 +24,15 @@ Page {
                 onClicked: {
                     label.count++;
                 }
+            }
+
+            Label {
+                id: label
+                x: Theme.horizontalPageMargin
+                property int count: 0
+                text: count
+                color: Theme.secondaryHighlightColor
+                font.pixelSize: Theme.fontSizeExtraLarge
             }
         }
     }
