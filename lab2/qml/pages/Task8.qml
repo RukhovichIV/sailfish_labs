@@ -11,7 +11,8 @@ Dialog {
         DialogHeader {}
         Row {
             spacing: Theme.paddingLarge
-            Label { text: "1st number" }
+            Label {
+                text: "1st number" }
             Label { text: "2nd number" }
         }
         Row {
